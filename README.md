@@ -17,22 +17,6 @@
 
 </div>
 
----
-
-### 🚀 Projetos em que atuo (MARC)
-Aqui estão alguns dos principais projetos que desenvolvo dentro da **plataforma MARC**, utilizando **TypeScript, Python, Next.js e NestJS**:
-
-- **[Marc Admin Dashboard]** – Painel administrativo desenvolvido em **Next.js**.  
-- **[Marc Dashboard]** – Interface principal do sistema, em **TypeScript**.  
-- **[Marc API Main]** – API Global da plataforma, construída em **NestJS**.  
-- **[Marc Campaign Queue]** – Gerenciamento de filas de campanhas.  
-- **[Marc Reminder Queue]** – Serviço de lembretes assíncronos.  
-- **[Marc Close Conversation Queue]** – Automação de encerramento de conversas.  
-- **[Marc Work Assistant v2]** – Assistente de trabalho com **Python**.  
-- **[Marc Wood Toten]** – Interface especializada (Totem).  
-- **[Marc Work Assistant]** – Microsserviço em **Python** para suporte ao fluxo de trabalho.  
-
----
 
 ### ⚡ Tecnologias que uso no meu dia a dia:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
