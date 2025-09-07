@@ -16,7 +16,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=llucalins&theme=radical&hide_border=false)  
 
 ### 🏆 Troféus:
-![trophy](https://github-profile-trophy.vercel.app/?username=llucalins&theme=radical&margin-w=10&margin-h=10)  
+![trophy](https://github-profile-trophy.vercel.app/?username=llucalins&theme=radical&margin-w=10&margin-h=10&title=Stars,Commits,Repositories,PullRequest,Issues)  
 
 </div>
 
