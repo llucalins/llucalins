@@ -1,7 +1,7 @@
 # Olá! Eu sou o Lucas Virginio 👋  
 
 [![Portfólio](https://img.shields.io/badge/🌐%20Portfólio-000000?style=for-the-badge)](https://portfolio2-0-two-bay.vercel.app)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lin.s30?igsh=MWhjOTZtcDQ2cmEzMw%3D%3D&utm_source=qr)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-virginio-55311627b/)  
 
 ---
