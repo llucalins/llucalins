@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=850&lines=Ol%C3%A1!+Eu+sou+Lucas+Virginio+%F0%9F%91%8B;Full+Stack+Developer;Foco+em+entregar+valor+com+tecnologia+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- Badges principais -->
+
 <a href="https://portfolio2-0-two-bay.vercel.app">
   <img alt="Portfólio" src="https://img.shields.io/badge/%F0%9F%8C%90%20Portf%C3%B3lio-000000?style=for-the-badge">
 </a>
@@ -21,7 +21,6 @@
 
 ### 📊 Contribuições
 <div align="center">
-  <!-- ÚNICO card de estatísticas (contribuições). Se quiser contar privadas, ative "Include private contributions" no GitHub. -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=llucalins&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"
     alt="GitHub stats de Lucas"
@@ -61,7 +60,7 @@
 ### 💬 Sobre
 Profissional focado em entregar valor com software: arquitetura limpa, código escalável e atenção a desempenho. Atuação full stack em projetos robustos na **MARC**, com **JavaScript/TypeScript, React/Next.js, Node.js e Python**.
 
-<!-- Contadores opcionais -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=llucalins&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
