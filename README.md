@@ -9,11 +9,12 @@
 <div align="center">
 
 ### 📊 Estatísticas do GitHub
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=llucalins&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llucalins&layout=compact&langs_count=8&theme=radical)  
+<img
+  src="https://github-readme-stats.vercel.app/api?username=llucalins&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=radical&hide_border=true"
+/>
 
 </div>
+
 
 ---
 
