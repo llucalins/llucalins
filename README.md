@@ -32,7 +32,7 @@
 ### 🗺️ Activity Graph
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=llucalins&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividades" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=llucalins&theme=github-compact&hide_border=true" alt="Gráfico de atividades" />
   </a>
 </div>
 
