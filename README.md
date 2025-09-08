@@ -49,8 +49,7 @@
 ---
 
 ### 🐍 Snake das Contribuições
-<!-- Este arquivo é gerado automaticamente pela GitHub Action abaixo -->
-![snake gif](https://github.com/llucalins/llucalins/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/llucalins/llucalins/output/github-contribution-grid-snake.svg)
 
 ---
 
