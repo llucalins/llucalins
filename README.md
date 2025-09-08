@@ -39,11 +39,6 @@
 
 ---
 
-### 📌 Destaques
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucalins&repo=Port.LucasLins&theme=github_dark&hide_border=true)]([(https://github.com/llucalins/Portfolio2.0))
-
 </div>
 
 ---
