@@ -47,7 +47,7 @@
 
 ---
 
-### ⚡ Stack (essencial)
+### ⚡ Stack 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB&style=for-the-badge)
