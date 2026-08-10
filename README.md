@@ -1,71 +1,99 @@
 
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=850&lines=Ol%C3%A1!+Eu+sou+Lucas+Virginio+%F0%9F%91%8B;Full+Stack+Developer;Foco+em+entregar+valor+com+tecnologia+%F0%9F%9A%80)](https://git.io/typing-svg)
+# 👋 Olá, eu sou Lucas Virgínio
 
+### Full Stack Developer
 
-<a href="https://portfolio2-0-two-bay.vercel.app">
-  <img alt="Portfólio" src="https://img.shields.io/badge/%F0%9F%8C%90%20Portf%C3%B3lio-000000?style=for-the-badge">
-</a>
-<a href="https://www.instagram.com/lin.s30?igsh=MWhjOTZtcDQ2cmEzMw%3D%3D&utm_source=qr">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge">
-</a>
-<a href="https://www.linkedin.com/in/lucas-virginio-55311627b/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
-</a>
+Desenvolvendo aplicações web de ponta a ponta com foco em qualidade, arquitetura e resolução de problemas.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-virginio-55311627b/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio2-0-two-bay.vercel.app)
 
 </div>
 
 ---
 
-### 📊 Contribuições
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=llucalins&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"
-    alt="GitHub stats de Lucas"
-  />
+## 👨‍💻 Sobre mim
+
+Sou **Desenvolvedor Full Stack** com experiência profissional no desenvolvimento, manutenção e evolução de aplicações web, atuando tanto no frontend quanto no backend.
+
+Trabalho principalmente com **React, TypeScript e JavaScript**, desenvolvendo interfaces, integrações, APIs REST, regras de negócio e soluções conectadas a bancos de dados.
+
+Atuei em projetos da **Anderson Rios Consultoria**, incluindo a plataforma **MARC**, participando do desenvolvimento de funcionalidades de ponta a ponta com tecnologias como **React, Next.js, TypeScript, Node.js e Python**.
+
+Atualmente também venho ampliando minha stack com **PostgreSQL, NestJS, Docker, testes automatizados e integração de aplicações com Inteligência Artificial**.
+
+Busco construir software com código organizado, boas práticas, decisões técnicas bem fundamentadas e foco na resolução de problemas reais.
+
+---
+
+## ⚡ Stack principal
+
+<div align="left">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
----
+### Outras tecnologias
 
-### 🗺️ Activity Graph
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=llucalins&theme=github-compact&hide_border=true" alt="Gráfico de atividades" />
-  </a>
-</div>
+<div align="left">
 
----
-
-</div>
-
----
-
-### 🐍 Snake das Contribuições
-![snake gif](https://raw.githubusercontent.com/llucalins/llucalins/output/github-contribution-grid-snake.svg)
-
----
-
-### ⚡ Stack 
-
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+</div>
 
 ---
 
-### 💬 Sobre
-Profissional focado em entregar valor com software: arquitetura limpa, código escalável e atenção a desempenho. Atuação full stack em projetos robustos na **MARC**, com **JavaScript/TypeScript, React/Next.js, Node.js e Python**.
+## 🚀 Projeto em destaque
 
+### 💼 Portfolio 2.0
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=llucalins&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+Portfólio profissional desenvolvido para apresentar minha experiência, projetos e trajetória como Desenvolvedor Full Stack.
+
+**Tecnologias:** React • JavaScript • CSS
+
+🔗 [Ver aplicação](https://portfolio2-0-two-bay.vercel.app)  
+💻 [Ver código](https://github.com/llucalins/Portfolio2.0)
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=llucalins&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
+  alt="GitHub Stats"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucalins&layout=compact&hide_border=true"
+  alt="Linguagens mais utilizadas"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Vamos conversar?
+
+Estou aberto a oportunidades como **Desenvolvedor Full Stack, Front-end Developer e Software Engineer**.
+
+[LinkedIn](https://www.linkedin.com/in/lucas-virginio-55311627b/) • [Portfólio](https://portfolio2-0-two-bay.vercel.app)
+
+</div>
