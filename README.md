@@ -1,5 +1,7 @@
 # Lucas Virginio
 
+🌐 [Portfólio](https://lucasvirginio.is-a.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/lucas-virginio-55311627b/)
+
 Desenvolvimento de software com foco em aplicações web. Meus projetos incluem interfaces em React, aplicações em TypeScript e persistência em PostgreSQL.
 
 ## Competências demonstradas nos projetos
