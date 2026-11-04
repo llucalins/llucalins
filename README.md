@@ -1,28 +1,43 @@
 # Lucas Virginio
 
-🌐 [Portfólio](https://lucasvirginio.is-a.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/lucas-virginio-55311627b/)
+**Full Stack Developer | TypeScript & AI Integration**
 
-Desenvolvimento de software com foco em aplicações web. Meus projetos incluem interfaces em React, aplicações em TypeScript e persistência em PostgreSQL.
+I build web applications and integrate APIs, databases, and AI-powered solutions, focusing on maintainable software and practical problem-solving.
 
-## Competências demonstradas nos projetos
+🌐 [Portfolio](https://lucasvirginio.is-a.dev/) · 💼 [LinkedIn](https://www.linkedin.com/in/lucas-virginio-55311627b/)
 
-- **Interfaces web:** JavaScript, TypeScript, React, Next.js, HTML e CSS.
-- **Aplicações e dados:** Node.js, PostgreSQL, consultas SQL e migrations versionadas.
-- **Qualidade:** testes com Vitest e Playwright, verificação de tipos e lint.
-- **Organização:** Git, documentação de execução e separação de responsabilidades no servidor.
+## Tech Stack
 
-## Projetos em destaque
+**Frontend:** TypeScript, JavaScript, React, Next.js, HTML, CSS  
+**Backend:** Node.js, REST APIs, Java, Spring Boot  
+**Database:** PostgreSQL, SQL  
+**AI Integration:** OpenAI APIs, AI agents and development automation  
+**Engineering:** Git, Docker, Vitest, Playwright
 
-### [Portfolio2.0](https://github.com/llucalins/Portfolio2.0)
-
-Portfólio em React e Vite, com navegação entre apresentação, trabalhos, currículo e contatos. Inclui conteúdo em português e inglês e currículo em PDF.
+## Featured Projects
 
 ### [Lava Auto Agendamento](https://github.com/llucalins/lava-auto-agendamento)
 
-Aplicação em desenvolvimento para agendamento de lavagem automotiva, com fluxo público, acompanhamento de reservas e painel administrativo. Usa Next.js, TypeScript e PostgreSQL, com testes unitários, de integração e de navegador disponíveis no repositório. A demonstração requer preparação local; o projeto não é apresentado como homologado em produção.
+A Full Stack scheduling application built with Next.js, TypeScript, and PostgreSQL.
+
+Includes booking workflows, availability management, administrative features, and automated testing.
+
+**Status:** In development.
+
+### [Portfolio2.0](https://github.com/llucalins/Portfolio2.0)
+
+My personal portfolio, built with React and Vite, featuring bilingual content, selected projects, and downloadable resumes.
 
 ### Mr Roobot AI Office
 
-Projeto pessoal em desenvolvimento, baseado em **Hermes Agent** e **DeskRPG**. Meu trabalho é a adaptação e integração no projeto pessoal; Hermes Agent e DeskRPG são plataformas de seus respectivos autores. Não atribuo a mim a autoria dessas bases.
+An experimental personal project exploring AI agents and software development workflows using Hermes Agent and DeskRPG.
 
-Os repositórios acima apresentam o código e as instruções de cada projeto. Para contato, utilize os canais disponibilizados no meu perfil do GitHub.
+My contributions focus on integration, configuration, and workflow experimentation. The underlying platforms belong to their respective authors.
+
+**Status:** Experimental development.
+
+## Connect
+
+I'm interested in Full Stack Development, TypeScript, and AI Integration opportunities.
+
+[LinkedIn](https://www.linkedin.com/in/lucas-virginio-55311627b/) · [Portfolio](https://lucasvirginio.is-a.dev/)
